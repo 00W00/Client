@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Client</string>
+    <string name="url">http://172.18.3.16:23405/issue_tradeweb/httpXmlServlet</string>
+    <string name="username">username</string>
+    <string name="password">password</string>
+    <string name="sessionStoreFile">com.yyd.myapp.sessionStoreFile</string>
+
+    <string name="REQ">REQ</string>
+    <string name="REP">REP</string>
+    <string name="RESULT">RESULT</string>
+    <string name="SessionID">SESSION_ID</string>
+    <string name="user_id">USER_ID</string>
+    <string name="TRADER_ID">TRADER_ID</string>
+    <string name="CUSTOMER_ID">CUSTOMER_ID</string>
+    <string name="BUY_SELL">BUY_SELL</string>
+    <string name="COMMODITY_ID">COMMODITY_ID</string>
+    <string name="PRICE">PRICE</string>
+    <string name="QTY">QTY</string>
+    <string name="SETTLE_BASIS">SETTLE_BASIS</string>
+    <string name="CLOSEMODE">CLOSEMODE</string>
+    <string name="TIMEFLAG">TIMEFLAG</string>
+    <string name="L_PRICE">L_PRICE</string>
+    <string name="BILLTYPE">BILLTYPE</string>
+    <string name="SO">SO</string>
+
+
+</resources>
